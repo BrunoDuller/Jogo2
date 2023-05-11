@@ -1,4 +1,4 @@
-package br.com.fiap.jogo2;
+package jogo;
 
 public interface Visualizacao {
 	 

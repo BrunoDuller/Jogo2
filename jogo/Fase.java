@@ -1,4 +1,4 @@
-package br.com.fiap.jogo2;
+package jogo;
 
 import br.com.fiap.jogo2.Visualizacao;
 
